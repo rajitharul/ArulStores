@@ -1,0 +1,15 @@
+ARUL STORES - An online mobile webstore. Following is an protoype that was built by me for the ARUL STORE Online web platorm. This web project is devloped by using Spring Boot as the back and Angular 8 as the front end using MySQL Database. 
+
+This web project inlcudes some key technologies and features such as,
+
+Spring data REST , and spring data JPA. Spring data REST is much more efficient when it comes to exposing REST end points and Retrieving data from the database. This transfers a JSON object which includes all important developer options such as pagination details , Relational mapping details ets....
+
+Spring data has been used as well in order to gain much more control and flexibility when its been needed where custom queries are required to get data.
+
+
+Angular 8 is been used alont with its routing features along with dual data binding facility. All the forms and their fields are being validated upto the standard.
+
+Login has been implemetned using the OAKT API which enable a lot of magical and important features for angular log in. User registration is much more easier and user handling is very efficient with this model. 
+
+
+Web Storage 
